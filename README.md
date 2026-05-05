@@ -166,8 +166,8 @@ Overall,the Decision Tree model combined with these business insights provides a
 
 By focusing on both predictive modeling and targeted business interventions, the company can significantly improve customer retention, reduce churn-related losses, and enhance long-term customer satisfaction.
 
-#Resouces 
-Syria Tel PDf
+# Resouces 
+Syria Tel Communication Company PDf
 
 Project Notebook
 
